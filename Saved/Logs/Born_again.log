@@ -1287,3 +1287,254 @@ Sampler Limit: 32
 [2026.03.25-08.36.51:690][422]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1373.786255
 [2026.03.25-08.36.52:691][425]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.03.25-08.36.52:691][425]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1374.452881, Update Interval: 313.356110
+[2026.03.25-08.42.22:572][437]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1704.668335
+[2026.03.25-08.42.23:573][439]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.25-08.42.23:574][439]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1705.335938, Update Interval: 357.910706
+[2026.03.25-08.49.11:605][684]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2113.703369
+[2026.03.25-08.49.12:605][687]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.25-08.49.12:605][687]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2114.369385, Update Interval: 358.950775
+[2026.03.25-08.55.57:171][448]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2519.276855
+[2026.03.25-08.55.58:505][452]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.25-08.55.58:505][452]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2520.276123, Update Interval: 352.248901
+[2026.03.25-09.02.31:944][655]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2914.052490
+[2026.03.25-09.02.32:943][657]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.25-09.02.32:943][657]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2914.718750, Update Interval: 357.625061
+[2026.03.25-09.02.56:267][864]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.25-09.02.56:477][864]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bornagain" FILE="../../../../../../Users/kylli/Documents/ydays/unreal/Born_again/Content/Bornagain.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.03.25-09.02.56:684][864]LogUObjectHash: Compacting FUObjectHashTables data took   6.03ms
+[2026.03.25-09.02.56:817][864]LogSavePackage: Moving output files for package: /Game/Bornagain
+[2026.03.25-09.02.56:818][864]LogSavePackage: Moving '../../../../../../Users/kylli/Documents/ydays/unreal/Born_again/Saved/BornagainA899237942EAA8D62C7A01B3444CE9B9.tmp' to '../../../../../../Users/kylli/Documents/ydays/unreal/Born_again/Content/Bornagain.umap'
+[2026.03.25-09.02.56:894][864]LogFileHelpers: Saving map 'Bornagain' took 0.427
+[2026.03.25-09.02.56:912][864]LogFileHelpers: InternalPromptForCheckoutAndSave took 644.714 ms
+[2026.03.25-09.02.57:149][864]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.25-09.02.57:149][864]LogContentValidation: Enabled validators:
+[2026.03.25-09.02.57:151][864]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.25-09.02.57:151][864]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.25-09.02.57:151][864]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.25-09.02.57:151][864]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.25-09.02.57:151][864]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.25-09.02.57:152][864]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.25-09.02.57:157][864]AssetCheck: /Game/Bornagain Validating asset
+[2026.03.25-09.05.02:487][889]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2026.03.25-09.05.02:971][889]LogSlate: Last resort fallback font was requested. Font: '<unknown>', Character: '<unknown>'
+[2026.03.25-09.05.02:995][889]LogSlate: Took 0.026060 seconds to synchronously load lazily loaded font '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' (5269K)
+[2026.03.25-09.05.04:873][889]LogSlate: Window 'Delete Assets' being destroyed
+[2026.03.25-09.05.05:017][889]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Assets/Banner.Banner
+	Asset Type: StaticMesh
+[2026.03.25-09.05.06:013][889]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2026.03.25-09.05.06:056][889]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2026.03.25-09.05.06:087][889]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2026.03.25-09.06.37:603][826]LogStreaming: Display: FlushAsyncLoading(488): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.25-09.06.37:777][826]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/kylli/Downloads/SM_Banner.fbx]
+[2026.03.25-09.06.39:514][826]LogSlate: Window 'Import Content' being destroyed
+[2026.03.25-09.06.39:572][826]LogInterchangeEngine: [Pending] Importing
+[2026.03.25-09.06.39:890][827]LogStreaming: Display: FlushAsyncLoading(495): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.25-09.06.39:978][828]LogStreaming: Display: FlushAsyncLoading(496): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.25-09.06.40:159][831]LogStaticMesh: Display: Building static mesh SM_Banner (Required Memory Estimate: 3.351953 MB)...
+[2026.03.25-09.06.40:194][831]LogStaticMesh: Adjacency [0.00s], tris: 2168, UVs 1
+[2026.03.25-09.06.40:208][831]LogStaticMesh: Clustering [0.01s]. Ratio: 1.000000
+[2026.03.25-09.06.40:209][831]LogStaticMesh: Leaves [0.00s]
+[2026.03.25-09.06.40:381][836]LogStaticMesh: Reduce [0.17s]
+[2026.03.25-09.06.40:383][836]LogStaticMesh: Fallback [0.00s], num tris: 251
+[2026.03.25-09.06.40:384][836]LogStaticMesh: Fallback [0.00s], num tris: 251
+[2026.03.25-09.06.40:386][836]LogStaticMesh: ConstrainClusters:
+[2026.03.25-09.06.40:386][836]LogStaticMesh:   Input: 37 Clusters, 4685 Triangles and 4163 Vertices
+[2026.03.25-09.06.40:386][836]LogStaticMesh:   Output without splits: 37 Clusters, 4685 Triangles and 4207 Vertices
+[2026.03.25-09.06.40:386][836]LogStaticMesh:   Output with splits: 37 Clusters, 4685 Triangles and 4207 Vertices
+[2026.03.25-09.06.40:386][836]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 37, Slow Path Clusters: 0, 1 Material: 37, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2026.03.25-09.06.40:389][836]LogStaticMesh: WritePages:
+[2026.03.25-09.06.40:389][836]LogStaticMesh:   Root: GPU size: 32592 bytes. 1 Pages. 32592.000 bytes per page (99.463% utilization).
+[2026.03.25-09.06.40:389][836]LogStaticMesh:   Streaming: GPU size: 17032 bytes. 1 Pages (1 with relative encoding). 17032.000 bytes per page (12.994% utilization).
+[2026.03.25-09.06.40:389][836]LogStaticMesh:   Page data disk size: 41704 bytes. Fixup data size: 304 bytes.
+[2026.03.25-09.06.40:389][836]LogStaticMesh:   Total GPU size: 49624 bytes, Total disk size: 42008 bytes.
+[2026.03.25-09.06.40:389][836]LogStaticMesh: Encode [0.01s]
+[2026.03.25-09.06.40:389][836]LogStaticMesh: NaniteBuild [0.20s]
+[2026.03.25-09.06.40:424][836]LogStaticMesh: Built static mesh [0.27s] /Game/Assets/SM_Banner.SM_Banner
+[2026.03.25-09.06.40:635][839]LogInterchangeEngine: Display: Interchange import completed [C:/Users/kylli/Downloads/SM_Banner.fbx]
+[2026.03.25-09.06.40:636][839]Interchange: Warning: [C:/Users/kylli/Downloads/SM_Banner.fbx : 'SM_Banner', StaticMesh] No smoothing group information was found for this mesh 'Mesh' in the FBX file. Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter before exporting the file.
+[2026.03.25-09.06.40:684][839]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2026.03.25-09.06.40:684][839]LogInterchangeEngine: [Success] Import Done
+[2026.03.25-09.06.41:767][865]LogMaterial: Display: Material /Game/Assets/standardSurface1.standardSurface1 needed to have new flag set bUsedWithNanite !
+[2026.03.25-09.06.43:799][934]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2026.03.25-09.06.44:904][934]LogSlate: Window 'Delete Assets' being destroyed
+[2026.03.25-09.06.44:960][934]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Assets/standardSurface1.standardSurface1
+	Asset Type: Material
+[2026.03.25-09.06.45:250][934]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2026.03.25-09.06.45:287][934]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2026.03.25-09.06.45:316][934]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2026.03.25-09.06.46:276][964]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/SM_Banner.SM_Banner
+[2026.03.25-09.06.46:276][964]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/SM_Banner.SM_Banner
+[2026.03.25-09.06.46:281][964]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/SM_Banner.SM_Banner as actor: StaticMeshActor /Game/Bornagain.Bornagain:PersistentLevel.StaticMeshActor_1
+[2026.03.25-09.06.47:425][ 13]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2026.03.25-09.06.47:428][ 13]LogEditorActor: Deleted 0 Actors (0.091 secs)
+[2026.03.25-09.06.47:445][ 13]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/SM_Banner.SM_Banner
+[2026.03.25-09.06.47:445][ 13]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/SM_Banner.SM_Banner
+[2026.03.25-09.06.47:449][ 13]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/SM_Banner.SM_Banner as actor: StaticMeshActor /Game/Bornagain.Bornagain:PersistentLevel.StaticMeshActor_7
+[2026.03.25-09.07.10:743][888]LogStreaming: Display: FlushAsyncLoading(497): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.25-09.07.10:915][888]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/kylli/Downloads/Banner.fbx]
+[2026.03.25-09.07.12:283][888]LogSlate: Window 'Import Content' being destroyed
+[2026.03.25-09.07.12:326][888]LogInterchangeEngine: [Pending] Importing
+[2026.03.25-09.07.12:607][889]LogStreaming: Display: FlushAsyncLoading(498): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.25-09.07.12:676][890]LogStreaming: Display: FlushAsyncLoading(499): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.25-09.07.12:744][892]LogStaticMesh: Display: Building static mesh Banner (Required Memory Estimate: 3.351953 MB)...
+[2026.03.25-09.07.12:766][892]LogStaticMesh: Adjacency [0.00s], tris: 2168, UVs 1
+[2026.03.25-09.07.12:777][892]LogStaticMesh: Clustering [0.01s]. Ratio: 1.000000
+[2026.03.25-09.07.12:777][892]LogStaticMesh: Leaves [0.00s]
+[2026.03.25-09.07.12:927][895]LogStaticMesh: Reduce [0.15s]
+[2026.03.25-09.07.12:929][895]LogStaticMesh: Fallback [0.00s], num tris: 251
+[2026.03.25-09.07.12:931][895]LogStaticMesh: Fallback [0.00s], num tris: 251
+[2026.03.25-09.07.12:933][896]LogStaticMesh: ConstrainClusters:
+[2026.03.25-09.07.12:933][896]LogStaticMesh:   Input: 37 Clusters, 4685 Triangles and 4163 Vertices
+[2026.03.25-09.07.12:934][896]LogStaticMesh:   Output without splits: 37 Clusters, 4685 Triangles and 4207 Vertices
+[2026.03.25-09.07.12:934][896]LogStaticMesh:   Output with splits: 37 Clusters, 4685 Triangles and 4207 Vertices
+[2026.03.25-09.07.12:935][896]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 37, Slow Path Clusters: 0, 1 Material: 37, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2026.03.25-09.07.12:937][896]LogStaticMesh: WritePages:
+[2026.03.25-09.07.12:937][896]LogStaticMesh:   Root: GPU size: 32592 bytes. 1 Pages. 32592.000 bytes per page (99.463% utilization).
+[2026.03.25-09.07.12:937][896]LogStaticMesh:   Streaming: GPU size: 17032 bytes. 1 Pages (1 with relative encoding). 17032.000 bytes per page (12.994% utilization).
+[2026.03.25-09.07.12:937][896]LogStaticMesh:   Page data disk size: 41704 bytes. Fixup data size: 304 bytes.
+[2026.03.25-09.07.12:937][896]LogStaticMesh:   Total GPU size: 49624 bytes, Total disk size: 42008 bytes.
+[2026.03.25-09.07.12:937][896]LogStaticMesh: Encode [0.01s]
+[2026.03.25-09.07.12:937][896]LogStaticMesh: NaniteBuild [0.17s]
+[2026.03.25-09.07.12:966][897]LogStaticMesh: Built static mesh [0.22s] /Game/Assets/Banner.Banner
+[2026.03.25-09.07.13:069][898]LogInterchangeEngine: Display: Interchange import completed [C:/Users/kylli/Downloads/Banner.fbx]
+[2026.03.25-09.07.13:069][898]Interchange: Warning: [C:/Users/kylli/Downloads/Banner.fbx : 'Banner', StaticMesh] No smoothing group information was found for this mesh 'Mesh' in the FBX file. Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter before exporting the file.
+[2026.03.25-09.07.13:093][898]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2026.03.25-09.07.13:093][898]LogInterchangeEngine: [Success] Import Done
+[2026.03.25-09.07.14:249][931]LogMaterial: Display: Material /Game/Assets/standardSurface1.standardSurface1 needed to have new flag set bUsedWithNanite !
+[2026.03.25-09.07.15:280][958]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Banner.Banner
+[2026.03.25-09.07.15:280][958]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Banner.Banner
+[2026.03.25-09.07.15:280][958]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Banner.Banner as actor: StaticMeshActor /Game/Bornagain.Bornagain:PersistentLevel.StaticMeshActor_9
+[2026.03.25-09.07.16:265][995]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2026.03.25-09.07.16:273][995]LogEditorActor: Deleted 0 Actors (0.057 secs)
+[2026.03.25-09.07.16:285][995]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Banner.Banner
+[2026.03.25-09.07.16:285][995]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/Banner.Banner
+[2026.03.25-09.07.16:288][995]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/Banner.Banner as actor: StaticMeshActor /Game/Bornagain.Bornagain:PersistentLevel.StaticMeshActor_11
+[2026.03.25-09.09.24:400][629]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3326.518799
+[2026.03.25-09.09.24:568][639]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.25-09.09.24:568][640]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3326.669678, Update Interval: 309.241608
+[2026.03.25-09.15.21:131][310]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3683.255615
+[2026.03.25-09.15.22:133][314]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.25-09.15.22:133][314]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3683.923096, Update Interval: 311.977295
+[2026.03.25-09.15.49:860][397]LogDerivedDataCache: C:/Users/kylli/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.001 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.03.25-09.17.12:135][472]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2026.03.25-09.17.14:035][472]LogSlate: Window 'Delete Assets' being destroyed
+[2026.03.25-09.17.14:144][472]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Assets/Banner.Banner
+	Asset Type: StaticMesh
+[2026.03.25-09.17.14:395][472]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2026.03.25-09.17.14:427][472]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2026.03.25-09.17.14:461][472]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2026.03.25-09.17.16:411][534]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2026.03.25-09.17.17:410][534]LogSlate: Window 'Delete Assets' being destroyed
+[2026.03.25-09.17.17:484][534]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2026.03.25-09.17.17:527][534]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2026.03.25-09.17.17:567][534]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2026.03.25-09.17.24:825][638]LogStreaming: Display: FlushAsyncLoading(500): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.25-09.17.25:371][638]LogInterchangeEngine: [Pending] Importing
+[2026.03.25-09.17.25:371][638]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/kylli/Downloads/SM_Banner.fbx]
+[2026.03.25-09.17.25:520][638]LogStaticMesh: Display: Building static mesh SM_Banner (Required Memory Estimate: 3.418062 MB)...
+[2026.03.25-09.17.25:535][638]LogStaticMesh: Adjacency [0.00s], tris: 2210, UVs 1
+[2026.03.25-09.17.25:544][638]LogStaticMesh: Clustering [0.01s]. Ratio: 1.000000
+[2026.03.25-09.17.25:544][638]LogStaticMesh: Leaves [0.00s]
+[2026.03.25-09.17.25:681][638]LogStaticMesh: Reduce [0.14s]
+[2026.03.25-09.17.25:682][638]LogStaticMesh: Fallback [0.00s], num tris: 251
+[2026.03.25-09.17.25:683][638]LogStaticMesh: Fallback [0.00s], num tris: 251
+[2026.03.25-09.17.25:685][638]LogStaticMesh: ConstrainClusters:
+[2026.03.25-09.17.25:685][638]LogStaticMesh:   Input: 38 Clusters, 4727 Triangles and 4399 Vertices
+[2026.03.25-09.17.25:685][638]LogStaticMesh:   Output without splits: 38 Clusters, 4727 Triangles and 4439 Vertices
+[2026.03.25-09.17.25:685][638]LogStaticMesh:   Output with splits: 38 Clusters, 4727 Triangles and 4439 Vertices
+[2026.03.25-09.17.25:685][638]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 38, Slow Path Clusters: 0, 1 Material: 38, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2026.03.25-09.17.25:689][638]LogStaticMesh: WritePages:
+[2026.03.25-09.17.25:690][638]LogStaticMesh:   Root: GPU size: 32708 bytes. 1 Pages. 32708.000 bytes per page (99.817% utilization).
+[2026.03.25-09.17.25:690][638]LogStaticMesh:   Streaming: GPU size: 19736 bytes. 1 Pages (1 with relative encoding). 19736.000 bytes per page (15.057% utilization).
+[2026.03.25-09.17.25:690][638]LogStaticMesh:   Page data disk size: 42976 bytes. Fixup data size: 304 bytes.
+[2026.03.25-09.17.25:690][638]LogStaticMesh:   Total GPU size: 52444 bytes, Total disk size: 43280 bytes.
+[2026.03.25-09.17.25:690][638]LogStaticMesh: Encode [0.01s]
+[2026.03.25-09.17.25:690][638]LogStaticMesh: NaniteBuild [0.15s]
+[2026.03.25-09.17.25:715][638]LogStaticMesh: Built static mesh [0.20s] /Game/Assets/SM_Banner.SM_Banner
+[2026.03.25-09.17.25:769][638]LogInterchangeEngine: Display: Interchange import completed [C:/Users/kylli/Downloads/SM_Banner.fbx]
+[2026.03.25-09.17.25:769][638]Interchange: Warning: [C:/Users/kylli/Downloads/SM_Banner.fbx : 'SM_Banner', StaticMesh] No smoothing group information was found for this mesh 'Mesh' in the FBX file. Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter before exporting the file.
+[2026.03.25-09.17.25:778][638]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2026.03.25-09.17.25:778][638]LogInterchangeEngine: [Success] Import Done
+[2026.03.25-09.17.33:865][662]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/SM_Banner.SM_Banner
+[2026.03.25-09.17.33:865][662]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/SM_Banner.SM_Banner
+[2026.03.25-09.17.33:867][662]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/SM_Banner.SM_Banner as actor: StaticMeshActor /Game/Bornagain.Bornagain:PersistentLevel.StaticMeshActor_13
+[2026.03.25-09.17.34:696][701]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2026.03.25-09.17.34:704][701]LogEditorActor: Deleted 0 Actors (0.059 secs)
+[2026.03.25-09.17.34:720][701]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/SM_Banner.SM_Banner
+[2026.03.25-09.17.34:720][701]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Assets/SM_Banner.SM_Banner
+[2026.03.25-09.17.34:722][701]LogActorFactory: Actor Factory spawned StaticMesh /Game/Assets/SM_Banner.SM_Banner as actor: StaticMeshActor /Game/Bornagain.Bornagain:PersistentLevel.StaticMeshActor_15
+[2026.03.25-09.17.45:211][292]Cmd: DELETE
+[2026.03.25-09.17.45:212][292]Cmd: ACTOR DELETE
+[2026.03.25-09.17.45:261][292]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.03.25-09.17.45:308][292]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2026.03.25-09.17.45:316][292]LogEditorActor: Deleted 1 Actors (0.082 secs)
+[2026.03.25-09.20.42:652][858]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2026.03.25-09.20.43:651][858]LogSlate: Window 'Save Content' being destroyed
+[2026.03.25-09.20.43:702][858]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.25-09.20.43:916][858]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bornagain" FILE="../../../../../../Users/kylli/Documents/ydays/unreal/Born_again/Content/Bornagain.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.03.25-09.20.44:004][858]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2026.03.25-09.20.44:038][858]LogSavePackage: Moving output files for package: /Game/Bornagain
+[2026.03.25-09.20.44:038][858]LogSavePackage: Moving '../../../../../../Users/kylli/Documents/ydays/unreal/Born_again/Saved/BornagainCF84F0564DD49E0EA01F0B813BC003B4.tmp' to '../../../../../../Users/kylli/Documents/ydays/unreal/Born_again/Content/Bornagain.umap'
+[2026.03.25-09.20.44:058][858]LogFileHelpers: Saving map 'Bornagain' took 0.142
+[2026.03.25-09.20.44:060][858]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/SM_Banner] ([1] browsable assets)...
+[2026.03.25-09.20.44:147][858]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/SM_Banner.SM_Banner]
+[2026.03.25-09.20.44:147][858]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/SM_Banner]
+[2026.03.25-09.20.44:147][858]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/SM_Banner" FILE="../../../../../../Users/kylli/Documents/ydays/unreal/Born_again/Content/Assets/SM_Banner.uasset" SILENT=true
+[2026.03.25-09.20.44:176][858]LogSavePackage: Moving output files for package: /Game/Assets/SM_Banner
+[2026.03.25-09.20.44:176][858]LogSavePackage: Moving '../../../../../../Users/kylli/Documents/ydays/unreal/Born_again/Saved/SM_BannerD0B91B3C4B675F517A51B6B908653377.tmp' to '../../../../../../Users/kylli/Documents/ydays/unreal/Born_again/Content/Assets/SM_Banner.uasset'
+[2026.03.25-09.20.44:192][858]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Texture/Chariot/T_BaseColor_CHARIOT_Mat] ([1] browsable assets)...
+[2026.03.25-09.20.44:208][858]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Texture/Chariot/T_BaseColor_CHARIOT_Mat.T_BaseColor_CHARIOT_Mat]
+[2026.03.25-09.20.44:208][858]OBJ SavePackage: Finished generating thumbnails for package [/Game/Texture/Chariot/T_BaseColor_CHARIOT_Mat]
+[2026.03.25-09.20.44:225][858]LogSavePackage: Moving output files for package: /Game/Texture/Chariot/T_BaseColor_CHARIOT_Mat
+[2026.03.25-09.20.44:226][858]LogSavePackage: Moving '../../../../../../Users/kylli/Documents/ydays/unreal/Born_again/Saved/T_BaseColor_CHARIOT_Mat39FEA6EC44068695533E39B04B3FB503.tmp' to '../../../../../../Users/kylli/Documents/ydays/unreal/Born_again/Content/Texture/Chariot/T_BaseColor_CHARIOT_Mat.uasset'
+[2026.03.25-09.20.44:251][858]LogFileHelpers: InternalPromptForCheckoutAndSave took 547.777 ms (total: 1.19 sec)
+[2026.03.25-09.20.44:495][858]LogContentValidation: Display: Starting to validate 3 assets
+[2026.03.25-09.20.44:495][858]LogContentValidation: Enabled validators:
+[2026.03.25-09.20.44:495][858]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.25-09.20.44:495][858]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.25-09.20.44:495][858]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.25-09.20.44:495][858]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.25-09.20.44:495][858]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.25-09.20.44:495][858]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.25-09.20.44:495][858]AssetCheck: /Game/Bornagain Validating asset
+[2026.03.25-09.20.44:496][858]AssetCheck: /Game/Assets/SM_Banner Validating asset
+[2026.03.25-09.20.44:496][858]AssetCheck: /Game/Texture/Chariot/T_BaseColor_CHARIOT_Mat Validating asset
+[2026.03.25-09.20.44:533][858]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/kylli/Documents/ydays/unreal/Born_again/Saved/SourceControl/UncontrolledChangelists.json
+[2026.03.25-09.21.20:514][931]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4042.634033
+[2026.03.25-09.21.20:767][946]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.25-09.21.20:767][946]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4042.866211, Update Interval: 340.932648
+[2026.03.25-09.27.40:630][927]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4422.721680
+[2026.03.25-09.27.40:797][938]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.25-09.27.40:797][938]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4422.871094, Update Interval: 348.246094
+[2026.03.25-09.34.21:077][934]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4823.157715
+[2026.03.25-09.34.22:080][937]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.25-09.34.22:080][937]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4823.824707, Update Interval: 304.242676
+[2026.03.25-09.35.47:617][415]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.25-09.35.47:788][415]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bornagain" FILE="../../../../../../Users/kylli/Documents/ydays/unreal/Born_again/Content/Bornagain.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.03.25-09.35.47:880][415]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2026.03.25-09.35.47:920][415]LogSavePackage: Moving output files for package: /Game/Bornagain
+[2026.03.25-09.35.47:922][415]LogSavePackage: Moving '../../../../../../Users/kylli/Documents/ydays/unreal/Born_again/Saved/Bornagain462DE49042328F9E8B8B7F83D3481412.tmp' to '../../../../../../Users/kylli/Documents/ydays/unreal/Born_again/Content/Bornagain.umap'
+[2026.03.25-09.35.47:955][415]LogFileHelpers: Saving map 'Bornagain' took 0.167
+[2026.03.25-09.35.47:973][415]LogFileHelpers: InternalPromptForCheckoutAndSave took 355.896 ms (total: 1.54 sec)
+[2026.03.25-09.35.48:207][415]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.25-09.35.48:207][415]LogContentValidation: Enabled validators:
+[2026.03.25-09.35.48:207][415]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.25-09.35.48:207][415]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.25-09.35.48:207][415]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.25-09.35.48:207][415]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.25-09.35.48:207][415]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.25-09.35.48:207][415]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.25-09.35.48:208][415]AssetCheck: /Game/Bornagain Validating asset
+[2026.03.25-09.36.21:197][109]LogSlate: Window 'FBX Export Options' being destroyed
+[2026.03.25-09.39.57:413][810]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5159.505859
+[2026.03.25-09.39.57:598][821]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.25-09.39.57:598][821]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5159.673340, Update Interval: 326.325867
+[2026.03.25-09.46.14:775][ 39]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5536.859863
+[2026.03.25-09.46.14:943][ 49]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.25-09.46.14:944][ 50]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5537.010742, Update Interval: 326.320374
+[2026.03.25-09.52.38:080][317]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5920.146484
+[2026.03.25-09.52.39:080][320]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.25-09.52.39:080][321]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5920.813965, Update Interval: 322.758881
